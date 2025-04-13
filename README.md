@@ -1,1 +1,1 @@
-# MediScan
+# MedScan

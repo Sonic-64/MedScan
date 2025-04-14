@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 import time
-import pydico
+import pydicom
 import torch.optim as opt
 from torch.utils.data import DataLoader
 from torchvision import datasets,transforms
@@ -11,6 +11,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+print(torch.__version__)
 
 
 

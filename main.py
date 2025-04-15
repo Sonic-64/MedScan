@@ -11,6 +11,11 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
+
+train_loss = []
+test_loss = []
+train_corr = []
+test_corr = []
 print(torch.__version__)
 
 
